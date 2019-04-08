@@ -1,0 +1,20 @@
+03:A15A InnerLoop
+03:A13A Decrypt_Start
+03:A0A4 DecrementWord32
+03:A090 AddWord32
+03:A084 CopyWord32
+03:A107 Counter32
+03:A0A0 (FFFFFFFF)
+03:A10F UpdatePRNG
+03:A10B PRNG
+03:A10C PRNG_Lower
+03:A10D PRNG_Seed
+03:A10E PRNG_Seed_Lower
+03:A567 EncData_Start
+03:A103 InitialCounterValue
+
+03:A0F3 OuterPRNGState
+03:A0F7 Outer_aCoeff
+03:A0FB Outer_cCoeff
+03:A0FF OuterCounter32
+03:A0C4 MultiplyWord32
